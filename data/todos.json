@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "electricity",
+    "description": "Pay electricity bill",
+    "isCompleted": false,
+    "isPinned": true
+  },
+  {
+    "id": 2,
+    "title": "Call",
+    "description": "Call Kiran",
+    "isCompleted": false,
+    "isPinned": true
+  },
+  {
+    "id": 3,
+    "title": "Visit",
+    "description": "visit dentist",
+    "isCompleted": true,
+    "isPinned": false
+  },
+  {
+    "id": 4,
+    "title": "Buy sweets",
+    "description": "Buy some sweets",
+    "isCompleted": false,
+    "isPinned": true
+  }
+]
