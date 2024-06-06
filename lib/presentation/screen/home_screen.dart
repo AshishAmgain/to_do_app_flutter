@@ -241,7 +241,7 @@ class Header extends StatelessWidget {
             ),
             children: [
               TextSpan(
-                text: ' Manager',
+                text: '',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                 ),
